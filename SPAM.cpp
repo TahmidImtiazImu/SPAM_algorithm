@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <iostream>
 int main() {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
+   std::cout << "Hello world" << std::endl ;
    return 0;
 }
